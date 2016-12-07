@@ -22,7 +22,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
-  spec.add_development_dependency "thor", "~> 0.19.4"
-  spec.add_development_dependency "tod", "~> 0.2.0"
-  spec.add_development_dependency "activesupport", "~> 5.0.0.1"
+
+  spec.add_runtime_dependency "thor"
+  spec.add_runtime_dependency "tod"
+  spec.add_runtime_dependency "activesupport"
 end
