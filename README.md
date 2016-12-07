@@ -9,21 +9,13 @@ Ittan (一旦) is a Gem that generates seed file from schema.rb for the time bei
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'ittan'
+gem install ittan
 ```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install ittan
 
 ## Usage
 
 ```
-$ bundle exec ittan
+$ ittan
 ```
 
 ## Contributing
