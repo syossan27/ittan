@@ -1,8 +1,8 @@
 # Ittan
 
-ittan（一旦）は`schema.rb`からとりあえずseed情報を生成するGemです。
+Ittan (一旦) is a Gem that generates seed file from schema.rb for the time being.
 
-※ seed_fuを想定しております
+※ It is assuming seed_fu.
 
 ## Installation
 
