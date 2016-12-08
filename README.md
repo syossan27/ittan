@@ -4,6 +4,8 @@ Ittan (一旦) is a Gem that generates seed file from schema.rb for the time bei
 
 ※ It is assuming seed_fu.
 
+![instruction](screenshot.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
